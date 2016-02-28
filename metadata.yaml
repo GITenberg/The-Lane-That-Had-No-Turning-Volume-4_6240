@@ -1,0 +1,30 @@
+_repo: The-Lane-That-Had-No-Turning-Volume-4_6240
+creator:
+  author:
+    agent_name: Parker, Gilbert
+    aliases:
+    - Parker, Horatio Gilbert
+    - Parker, Gilbert, Sir, bart.
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1285'
+    url: http://www.gutenberg.org/2009/agents/1285
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Parker
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6240'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Canadian fiction'
+tableOfContents: Times were hard in Pontiac -- Medallion's whim -- The prisoner --
+  An upset price -- A fragment of lives -- The man that died at Alma -- The Baron
+  of Beaugard -- The tune McGilveray played.
+title: The Lane That Had No Turning, Volume 4
+url: http://www.gutenberg.org/ebooks/6240
