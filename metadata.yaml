@@ -1,5 +1,5 @@
 _repo: The-Lane-That-Had-No-Turning-Volume-4_6240
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,6 +29,7 @@ subjects:
 - !lcsh 'Short stories'
 - !lcc 'PS'
 - !lcsh 'Canadian fiction'
+- GITenberg
 tableOfContents: Times were hard in Pontiac -- Medallion's whim -- The prisoner --
   An upset price -- A fragment of lives -- The man that died at Alma -- The Baron
   of Beaugard -- The tune McGilveray played.
